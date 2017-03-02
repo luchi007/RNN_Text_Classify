@@ -1,6 +1,6 @@
 # RNN_Text_Classify
 
-This code belongs to the "implement a RNN for text classification in Tensorflow" POST
+This code belongs to the ["implement a RNN for text classification in Tensorflow"](http://blog.csdn.net/u010223750/article/details/53334313) POST
 
 
 
