@@ -8,8 +8,11 @@ This code belongs to the ["implement a RNN for text classification in Tensorflow
 
 
 #Requirements
+
 Python 2.7
-Tensorflow > 1.1
+
+Tensorflow > 0.11
+
 Numpy
 
 
