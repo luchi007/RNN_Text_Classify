@@ -11,7 +11,7 @@ This code belongs to the ["implement a RNN for text classification in Tensorflow
 
 Python 2.7
 
-Tensorflow > 0.11
+Tensorflow ： 0.11
 
 Numpy
 
