@@ -7,13 +7,12 @@ This code belongs to the ["implement a RNN for text classification in Tensorflow
 
 
 
-#Requirements
+## Requirements
 
 Python 2.7
 
 Tensorflow ： 0.11(tensorflow with version 1.0 is not supported here, you can transform the code into tensorflow1.0 using the scripts   provided by tensorflow offical website,or you can find some solutions in #issue3)
 
-Numpy
 
 
 
@@ -21,10 +20,10 @@ Numpy
 
 
 
-#Training
+## Training
 train_rnn_classify.py
 
-#note
+## note
 this code save the model checkpoints and save the summary at given epoch, these actions will slow down the training speed,so if you want to do a quick job, just remove these codes if you need
 
 
